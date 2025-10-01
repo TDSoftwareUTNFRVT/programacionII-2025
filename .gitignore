@@ -8,6 +8,7 @@ docentes_backup.txt
 docentes_backup_*.txt
 docentes_export.*
 *.backup
+/pyqt/examen
 
 # Archivos temporales de Python
 __pycache__/
